@@ -1,3 +1,4 @@
 # boiler_plate
 
-Hola, esto es un test
+virtualenv -p python3 .venv
+pip install -r requirements.txt
